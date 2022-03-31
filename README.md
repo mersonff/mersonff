@@ -1,4 +1,5 @@
 <h2> Hey there! I'm Emerson. </h2>
+<img src="https://komarev.com/ghpvc/?username=mersonff" alt="mersonff" />
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -17,14 +18,14 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<br>
-
-<p float="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mersonff&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mersonff&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
-<p>
-
+<div>
+  <a href="https://github.com/mersonff">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mersonff&bg_color=30,E3FDF5,FFE6FA&title_color=000&text_color=000&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mersonff&layout=compact&langs_count=7&bg_color=360,FFE6FA,E3FDF5&title_color=000&text_color=000"/>
+    
+  ![Snake animation](https://github.com/mersonff/mersonff/blob/output/github-contribution-grid-snake.svg)
+    
+</div>
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p>
