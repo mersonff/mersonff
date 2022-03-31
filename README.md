@@ -20,11 +20,9 @@
 
 <div>
   <a href="https://github.com/mersonff">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mersonff&bg_color=30,E3FDF5,FFE6FA&title_color=000&text_color=000&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mersonff&layout=compact&langs_count=7&bg_color=360,FFE6FA,E3FDF5&title_color=000&text_color=000"/>
-    
-  ![Snake animation](https://github.com/mersonff/mersonff/blob/output/github-contribution-grid-snake.svg)
-    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mersonff&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mersonff&layout=compact&langs_count=7&theme=radical"/>
+        
 </div>
 <h3> 🤝🏻 Connect with Me </h3>
 
@@ -34,3 +32,6 @@
 &nbsp; <a href="https://www.linkedin.com/in/mersonff/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:mersonsi@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
+  
+![Snake animation](https://github.com/mersonff/mersonff/blob/output/github-contribution-grid-snake.svg)
+
