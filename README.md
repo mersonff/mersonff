@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🌱 &nbsp; Focusing in become a better Ruby Dev.
+- 🌱 &nbsp; Focusing in become a better Dev.
 - ✍️ &nbsp; Watching Anime and playing FGO.
 - ☕ &nbsp; No sugar, please! 
 
