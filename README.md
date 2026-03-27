@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=230&section=header&text=Emerson%20Freitas&fontSize=42&fontColor=e6edf3&fontAlignY=35&desc=Software%20Engineer&descSize=18&descColor=8b949e&descAlignY=52&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:110821,70:2d1150,100:4b2085&height=230&section=header&text=Emerson%20Freitas&fontSize=42&fontColor=e6edf3&fontAlignY=35&desc=Software%20Engineer&descSize=18&descColor=9d7cd8&descAlignY=52&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=520&lines=Building+things+that+matter+%F0%9F%9A%80;Ruby+%7C+Go+%7C+TypeScript+%7C+React;Coffee+with+no+sugar+%E2%98%95)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=9D7CD8&center=true&vCenter=true&random=false&width=520&lines=Building+things+that+matter+%F0%9F%9A%80;Ruby+%7C+Go+%7C+TypeScript+%7C+React;Coffee+with+no+sugar+%E2%98%95)](https://git.io/typing-svg)
 
 </div>
 
@@ -60,12 +60,12 @@ fun_facts:
 ### `> stats`
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=mersonff&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mersonff&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
+  <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mersonff&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=9d7cd8&icon_color=9d7cd8&text_color=8b949e&ring_color=4b2085" />
+  <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mersonff&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=9d7cd8&text_color=8b949e" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mersonff&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mersonff&hide_border=true&background=0d1117&stroke=30363d&ring=4b2085&fire=9d7cd8&currStreakLabel=9d7cd8&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e" />
 </div>
 
 ---
@@ -95,4 +95,4 @@ fun_facts:
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:30363d,50:161b22,100:0d1117&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:4b2085,30:2d1150,60:110821,100:0d1117&height=100&section=footer)
