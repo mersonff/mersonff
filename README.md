@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:110821,70:2d1150,100:4b2085&height=230&section=header&text=Emerson%20Freitas&fontSize=42&fontColor=e6edf3&fontAlignY=35&desc=Software%20Engineer&descSize=18&descColor=9d7cd8&descAlignY=52&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=9D7CD8&center=true&vCenter=true&random=false&width=520&lines=Building+things+that+matter+%F0%9F%9A%80;Ruby+%7C+Go+%7C+TypeScript+%7C+React;Coffee+with+no+sugar+%E2%98%95)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=9D7CD8&center=true&vCenter=true&random=false&width=520&lines=Building+things+that+matter+%F0%9F%9A%80;Ruby+%7C+TypeScript+%7C+Go+%7C+Vue;Coffee+with+no+sugar+%E2%98%95)](https://git.io/typing-svg)
 
 </div>
 
@@ -27,17 +27,17 @@ fun_facts:
 **Languages**
 
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 **Frameworks & Libraries**
 
 ![Rails](https://img.shields.io/badge/Rails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 **Databases**
 
