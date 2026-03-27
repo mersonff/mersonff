@@ -60,8 +60,8 @@ fun_facts:
 ### `> stats`
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mersonff&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=9d7cd8&icon_color=9d7cd8&text_color=8b949e&ring_color=4b2085" />
-  <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mersonff&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=9d7cd8&text_color=8b949e" />
+  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mersonff&theme=github_dark" />
+  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mersonff&theme=github_dark" />
 </div>
 
 <div align="center">
